@@ -1,0 +1,28 @@
+<style>
+
+{ margin: 0; padding: 0; }
+
+body { font-family: Verdana, Arial, Helvetica, sans-serif; margin:0; background-color: #000; color: #FFF; }
+
+form,h2,h3,h4,li,hr,input,table,tr,td,th,pre {margin: 0;	font-size: 12px;}
+
+h1 {margin: 0;	font-size: 24px;}
+.TextColor_Orange-Dark {color: #f90;}
+.TextColor_Orange {color: #fc0;}
+.TextColor_Yellow {color: #ff0;}
+.TextColor_Red {color: #f00;}
+.TextColor_Red-Dark {color: #900;}
+.TextColor_Green {color: #0f0;}
+.TextColor_Green-Dark {color: #090;}
+.TextColor_blue {color: #00f;}
+.TextColor_Blue-Dark {color: #009;}
+.TextColor_Black {color: #000;}
+.TextColor_White {color: #fff;}
+
+A.link:link {text-decoration: none; color: #b8f;}
+A.link:visited {text-decoration: none; color: #b8f;}
+A.link:active {text-decoration: none; color: #daf;}
+A.link:hover {text-decoration: underline; color: #daf;}
+
+</style>
+
